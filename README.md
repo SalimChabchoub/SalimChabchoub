@@ -50,11 +50,5 @@ RESTful messaging system built in Java with JWT-based authentication, HTML/JS fr
 
 ---
 
-## ⚡ Fun Fact
-
-> I love coding games I used to play as a kid – and building them taught me data structures, graphics, logic, and joy!
-
----
-
 ⭐ Thanks for visiting my profile! Feel free to explore my repos and connect with me 🙂
 
