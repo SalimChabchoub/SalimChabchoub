@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Salim Chabchoub
 
-🎓 I'm a **5th-year engineering student in Computer Science – Data Science major** at Polytech Lyon (Université Claude Bernard Lyon 1, France).  
-🚀 I'm currently looking for a **5-month end-of-studies internship** from **March to July 2026**.
+🎓 **Data Engineer & Software Engineer** | Double Degree in **Computer Science Engineering** (Polytech Lyon) & **M.Sc. in Data Science** (Université Claude Bernard Lyon 1).  
+🚀 Currently looking for a **Junior Data Engineer / Machine Learning Engineer** position.
 
-💡 Passionate about **software engineering**, **data science**, **web development**, and building intelligent systems from scratch.
+💡 Passionate about **Data Engineering**, **Big Data (Spark / Databricks)**, **Cloud Platforms**, and **Machine Learning**. I focus on designing scalable data pipelines, modern architectures, and intelligent systems.
 
 ---
 
-## 🔧 Technologies I work with
-
-- **Languages**: Java, Python, C, C#, SQL, PHP, JavaScript, HTML/CSS
-- **Frameworks & Tools**: Angular, Flask, Laravel, .NET, JPA, JWT, Highcharts, Bootstrap, ncurses
-- **Data/AI**: pandas, scikit-learn, mlxtend, Monte Carlo Tree Search (MCTS), Apriori
-- **Dev Tools**: Git, Makefile, Jupyter Notebook
+### 🛠️ Tech Stack & Tools
+* **Languages:** Python, SQL, Java, Python, C, C#, SQL, PHP , JavaScript / TypeScript, C++
+* **Data & Cloud:** Databricks, Apache Spark, Microsoft Fabric, PostgreSQL, Docker, Azure
+* **AI & ML:** PyTorch, Scikit-Learn, XGBoost, LLMs / MCP, pandas, scikit-learn, mlxtend, Monte Carlo Tree Search (MCTS), Apriori
+* **Web & Frameworks:** FastAPI, Next.js, Streamlit, D3.js
+* **Dev Tools**: Git, Makefile, Jupyter Notebook
 
 ---
 
